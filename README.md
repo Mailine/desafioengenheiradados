@@ -1,6 +1,6 @@
 # Desafio Engenheira de Dados
-Neste projeto foi pedido a Análise Exploratória e Implementação dos Dados de uma empresa que produz bicicletas,
-onde foram fornecidos os seguintes arquivos:
+Neste projeto foi pedido a Análise Exploratória e Implementação dos Dados de uma empresa que produz bicicletas.
+Para tal foram fornecidos os seguintes arquivos:
 
 ● Sales.SpecialOfferProduct.csv
 
@@ -19,8 +19,10 @@ foi necessário criar três novas tabelas para resolver as questões.
 
 ![image](https://user-images.githubusercontent.com/96089256/163693049-f3b84669-8b8f-4141-abda-afc8c2f4991b.png)
 
-Posteriomente, as tabelas foram analisadas, baseadas nas questões a serem respondidas e, assim, foi feito
-para cada questão, uma query, e, gerado uma tabela para responder cada uma dessas questões. 
+
+Posteriomente, essas tabelas foram analisadas baseadas no que foi proposto. 
+Desta forma, desenvolveu-se uma query para responder cada questão, gerando as tabelas de resultados.
+
 
 ![image](https://user-images.githubusercontent.com/96089256/163693075-42fdec5f-e98f-4d98-abe4-70c8edd09797.png)
 
